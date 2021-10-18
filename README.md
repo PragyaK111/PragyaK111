@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PragyaK111
 - 👀 I’m interested in Learning New skills.
 - 🌱 I’m currently learning Data analysis through Python.
-- 💞️ I’m looking to collaborate on 29th Nov.
+- 💞️ I’m looking to collaborate on data analysis.
 
 <!---
 PragyaK111/PragyaK111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
